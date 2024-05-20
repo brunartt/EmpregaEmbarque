@@ -14,7 +14,7 @@ function Vagas() {
         </div>
         
         <div className="quadros-container">
-          <div className="quadro"></div>
+          <div className="quadro">oi</div>
           <div className="quadro"></div>
           <div className="quadro"></div>
           <div className="quadro"></div>
